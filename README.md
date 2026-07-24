@@ -9,7 +9,7 @@ LinkedIn Posts - Code In Daily life series
 | ✅ 04 | Fri | Security              | Authentication vs Authorization | ✈️ Airport                           | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-authentication-authorization-share-7483832122802114560-ww48/
 | ✅ 05 | Mon | System Design         | Load Balancing                  | 🏑 Hockey Team                       | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-loadbalancing-mondaymodules-share-7484954832932356097-52vk/
 | ✅ 06 | Wed | JavaScript            | Closures                        | 👑 Baahubali                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-closures-webwednesday-share-7485675773505200129-5C3Q/ 
-| 07   | Fri | CSS                   | Flexbox                         | 🚌 Bus Seating                       |
+| ✅ 07   | Fri | CSS                   | Flexbox                         | 📚 Books                    | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-flexbox-fridayfrontend-share-7486371085316177920-Ev2W/
 | 08   | Mon | Angular               | Dependency Injection            | 🏥 Hospital                          |
 | 09   | Wed | HTML                  | Semantic HTML                   | 🏠 House Blueprint                   |
 | 10   | Fri | React                 | Virtual DOM                     | 🎭 Theatre Rehearsal                 |
