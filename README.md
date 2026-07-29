@@ -10,7 +10,7 @@ LinkedIn Posts - Code In Daily life series
 | ✅ 05 | Mon | System Design         | Load Balancing                  | 🏑 Hockey Team                       | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-loadbalancing-mondaymodules-share-7484954832932356097-52vk/
 | ✅ 06 | Wed | JavaScript            | Closures                        | 👑 Baahubali                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-closures-webwednesday-share-7485675773505200129-5C3Q/ 
 | ✅ 07   | Fri | CSS                   | Flexbox                         | 📚 Books                    | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-flexbox-fridayfrontend-share-7486371085316177920-Ev2W/
-| 08   | Mon | Angular               | Dependency Injection            | 🏥 Hospital                          |
+| 08   | ~~Mon~~ Wed | Angular               | Dependency Injection            | 🏥 Hospital                          |https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-dependencyinjection-share-7488252049227169792-w-0W/
 | 09   | Wed | HTML                  | Semantic HTML                   | 🏠 House Blueprint                   |
 | 10   | Fri | React                 | Virtual DOM                     | 🎭 Theatre Rehearsal                 |
 | 11   | Mon | CSS                   | Grid                            | 🏢 Apartment Building                |
