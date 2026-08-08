@@ -10,10 +10,10 @@ LinkedIn Posts - Code In Daily life series
 | ✅ 05 | Mon | System Design         | Load Balancing                  | 🏑 Hockey Team                       | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-loadbalancing-mondaymodules-share-7484954832932356097-52vk/
 | ✅ 06 | Wed | JavaScript            | Closures                        | 👑 Baahubali                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-closures-webwednesday-share-7485675773505200129-5C3Q/ 
 | ✅ 07   | Fri | CSS                   | Flexbox                         | 📚 Books                    | https://www.linkedin.com/posts/mauaa-datta-4b8455142_codeindailylife-flexbox-fridayfrontend-share-7486371085316177920-Ev2W/
-| 08   | ~~Mon~~ Wed | Angular               | Dependency Injection            | 🏥 Hospital                          |https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-dependencyinjection-share-7488252049227169792-w-0W/
-| 09   | Wed | HTML                  | Semantic HTML                   | 🏠 House Blueprint                   |
-| 10   | Fri | React                 | Virtual DOM                     | 🎭 Theatre Rehearsal                 |
-| 11   | Mon | CSS                   | Grid                            | 🏢 Apartment Building                |
+|  ✅ 08   |  Wed | Angular               | Dependency Injection            | 🏥 Hospital                          |https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-dependencyinjection-share-7488252049227169792-w-0W/
+| ✅ 09   | Fri | HTML                  | Semantic HTML                   | 🏠 House Blueprint                   |  https://www.linkedin.com/posts/mauaa-datta-4b8455142_fridayfrontend-codeindailylife-semantichtml-activity-7488980294234955776-c9Yg
+| ✅ 10   | Mon | React                 | Virtual DOM                     | 🎭 Theatre Rehearsal                 | https://www.linkedin.com/posts/mauaa-datta-4b8455142_mondaymodules-codeindailylife-virtualdom-activity-7490024517587685377-w36e
+| ✅ 11   | Wed | CSS                   | Grid                            | 🏢 Apartment Building                | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-cssgrid-activity-7490803255799676929-Krjo
 | 12   | Wed | JavaScript            | Scope                           | 🏡 Family House                      |
 | 13   | Fri | Responsive Web Design | Media Queries                   | 👗 Tailor                            |
 | 14   | Mon | React                 | useEffect                       | 🌱 Gardening                         |
