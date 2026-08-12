@@ -14,7 +14,7 @@ LinkedIn Posts - Code In Daily life series
 | ✅ 09   | Fri | HTML                  | Semantic HTML                   | 🏠 House Blueprint                   |  https://www.linkedin.com/posts/mauaa-datta-4b8455142_fridayfrontend-codeindailylife-semantichtml-activity-7488980294234955776-c9Yg
 | ✅ 10   | Mon | React                 | Virtual DOM                     | 🎭 Theatre Rehearsal                 | https://www.linkedin.com/posts/mauaa-datta-4b8455142_mondaymodules-codeindailylife-virtualdom-activity-7490024517587685377-w36e
 | ✅ 11   | Wed | CSS                   | Grid                            | 🏢 Apartment Building                | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-cssgrid-activity-7490803255799676929-Krjo
-| 12   | Wed | React         | useEffect               | 🎵 Music     |
+| 12   | Wed | React         | useEffect               | 🎵 Music     |https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-useeffect-share-7492920722323947520-4rji/?utm_source=share&utm_medium=member_android&rcm=ACoAACKYCYwB7rgr63Wb51__SF4Y7s0MqULqb_I
 | 13   | Fri | Responsive Web Design | Media Queries                   | 👗 Tailor                            |
 | 14   | Mon | JavaScript                 | Scope                     | 🏡 Family House                    |
 | 15   | Wed | Angular               | Signals                         | ❤️ Heartbeat                         |
