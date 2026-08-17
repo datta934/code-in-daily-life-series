@@ -15,8 +15,8 @@ LinkedIn Posts - Code In Daily life series
 | ✅ 10   | Mon | React                 | Virtual DOM                     | 🎭 Theatre Rehearsal                 | https://www.linkedin.com/posts/mauaa-datta-4b8455142_mondaymodules-codeindailylife-virtualdom-activity-7490024517587685377-w36e
 | ✅ 11   | Wed | CSS                   | Grid                            | 🏢 Apartment Building                | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-cssgrid-activity-7490803255799676929-Krjo
 | ✅ 12   | Wed | React         | useEffect               | 🎵 Music     |https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-useeffect-share-7492920722323947520-4rji/?utm_source=share&utm_medium=member_android&rcm=ACoAACKYCYwB7rgr63Wb51__SF4Y7s0MqULqb_I
-| ✅ 13   | Fri | JavaScript |Scope           | 👗Movie Set                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_frontendfriday-codeindailylife-scope-share-7493966942089887744-n8dq/
-| 14   | Mon |  Responsive Web Design                 |      Media Queries                         | 🏡 Family House                    |
+| ✅ 13   | Fri | JavaScript |Scope           | 🎬 Movie Set                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_frontendfriday-codeindailylife-scope-share-7493966942089887744-n8dq/
+| ✅ 14   | Mon |  Responsive Web Design                 |      Media Queries                         | 🪑Dining Table                | https://www.linkedin.com/posts/mauaa-datta-4b8455142_mondaymodules-codeindailylife-responsivewebdesign-activity-7495167230570053634-OvXm
 | 15   | Wed | Angular               | Signals                         | ❤️ Heartbeat                         |
 | 16   | Fri | CSS                   | Position                        | 🏙️ City Roads                       |
 | 17   | Mon | System Design         | Caching                         | ☕ Chai Stall                         |
