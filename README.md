@@ -18,9 +18,9 @@ LinkedIn Posts - Code In Daily life series
 | ✅ 13   | Fri | JavaScript |Scope           | 🎬 Movie Set                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_frontendfriday-codeindailylife-scope-share-7493966942089887744-n8dq/
 | ✅ 14   | Mon |  Responsive Web Design                 |      Media Queries                         | 🪑Dining Table                | https://www.linkedin.com/posts/mauaa-datta-4b8455142_mondaymodules-codeindailylife-responsivewebdesign-activity-7495167230570053634-OvXm
 |  ✅ 15   | Wed | Angular               | Signals                         | ❤️ Heartbeat                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-signals-activity-7495860841859260416-CKFL
-| 16   | Wed | CSS                   | Position                        | 🏙️ City Roads                       |
-| 17   | Mon | System Design         | Caching                         | ☕ Chai Stall                         |
-| 18   | Wed | HTML                  | Forms & Accessibility           | 🏦 Bank Counter                      |
+| 16   | Wed | CSS                   | Position                        | 🏙️ City Roads                       | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-positions-activity-7498371238675996672-bfRS
+| 17   | Wed | System Design         | Caching                         | ☕ Chai Stall                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-caching-activity-7503472832572497920-QfsZ
+| 18   | Fri | HTML                  | Forms & Accessibility           | 🏦 Bank Counter                      |
 | 19   | Fri | JavaScript            | Hoisting                        | 🎬 Movie Trailer                     |
 | 20   | Mon | Design Systems        | Design Tokens                   | 🎨 Paint Shop                        |
 | 21   | Wed | React                 | Props vs State                  | 👨‍👩‍👧 Family                      |
