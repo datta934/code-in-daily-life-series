@@ -20,8 +20,8 @@ LinkedIn Posts - Code In Daily life series
 |  ✅ 15   | Wed | Angular               | Signals                         | ❤️ Heartbeat                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-signals-activity-7495860841859260416-CKFL
 | 16   | Wed | CSS                   | Position                        | 🏙️ City Roads                       | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-positions-activity-7498371238675996672-bfRS
 | 17   | Wed | System Design         | Caching                         | ☕ Chai Stall                         | https://www.linkedin.com/posts/mauaa-datta-4b8455142_webwednesday-codeindailylife-caching-activity-7503472832572497920-QfsZ
-| 18   | Fri | HTML                  | Forms & Accessibility           | 🏦 Bank Counter                      |
-| 19   | Fri | JavaScript            | Hoisting                        | 🎬 Movie Trailer                     |
+| 18   | Fri | HTML                  | Forms & Accessibility           | 🏦 Bank Counter                      | https://lnkd.in/p/d3b3brKn
+| 19   | Mon | JavaScript            | Hoisting                        | 🎬 Movie Trailer                     |
 | 20   | Mon | Design Systems        | Design Tokens                   | 🎨 Paint Shop                        |
 | 21   | Wed | React                 | Props vs State                  | 👨‍👩‍👧 Family                      |
 | 22   | Fri | CSS                   | z-index                         | 🎭 Stage Show                        |
